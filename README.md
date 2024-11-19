@@ -1,0 +1,2 @@
+# easyhr
+A leading page
